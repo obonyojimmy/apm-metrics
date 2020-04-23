@@ -1,0 +1,7 @@
+{
+  "service_name": "nginx",
+  "sampler": {
+    "type": "const",
+    "param": 1
+  }
+}
